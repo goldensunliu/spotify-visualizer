@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "query-string": "^6.2.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-transition-group": "^2.5.3"
+  },
+  "dependencies": {
+    "next": "^8.0.3"
+  }
+}
